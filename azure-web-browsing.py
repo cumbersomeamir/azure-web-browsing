@@ -1,6 +1,7 @@
 import json
 import requests
 from pprint import pprint
+import os
 
 # API keys and endpoint
 subscription_key = os.getenv("BING_SUBSCRIPTION_KEY")
