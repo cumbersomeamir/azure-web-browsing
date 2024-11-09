@@ -1,4 +1,5 @@
 import requests
+import os
 
 # API keys and endpoint
 subscription_key = os.getenv("BING_SUBSCRIPTION_KEY")
